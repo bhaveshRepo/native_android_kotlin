@@ -27,8 +27,7 @@ class MainActivity : AppCompatActivity() {
         newsViewModel = ViewModelProvider(this, providerFactory).get(NewsViewModel::class.java)
         bottomNavigationView.setupWithNavController(newsNavHostFragment.findNavController())
 
-        this is Second commit
-        println("Reverting using android studio")
+        println("this is Second commit")
 
     }
 }
