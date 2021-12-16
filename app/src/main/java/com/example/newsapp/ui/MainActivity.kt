@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.newsapp.R
+import com.example.newsapp.db.ArticleDatabaseInstance
 import com.example.newsapp.repository.NewsRepository
 import com.example.newsapp.viewmodel.NewsModelProviderFactory
 import com.example.newsapp.viewmodel.NewsViewModel
@@ -21,10 +22,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        val repository = NewsRepository(NewsDatabase(this) as NewsDatabase)
+        val repository = NewsRepository(ArticleDatabaseInstance(this) as ArticleDatabaseInstance)
         val providerFactory  = NewsModelProviderFactory(application, repository)
         newsViewModel = ViewModelProvider(this, providerFactory).get(NewsViewModel::class.java)
         bottomNavigationView.setupWithNavController(newsNavHostFragment.findNavController())
+
+        this is Second commit
 
     }
 }
