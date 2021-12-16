@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         bottomNavigationView.setupWithNavController(newsNavHostFragment.findNavController())
 
         this is Second commit
+        println("Reverting using android studio")
 
     }
 }
