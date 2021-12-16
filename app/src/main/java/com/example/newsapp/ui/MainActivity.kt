@@ -27,7 +27,8 @@ class MainActivity : AppCompatActivity() {
         newsViewModel = ViewModelProvider(this, providerFactory).get(NewsViewModel::class.java)
         bottomNavigationView.setupWithNavController(newsNavHostFragment.findNavController())
 
-        println("this is Second commit")
+        println("Commit inside Experimental Branch")
+
 
     }
 }

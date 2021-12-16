@@ -5,6 +5,7 @@ plugins {
     id 'kotlin-android-extensions'
     id "androidx.navigation.safeargs.kotlin"
 }
+apply plugin: 'kotlin-android'
 
 android {
     compileSdk 31
@@ -76,4 +77,6 @@ dependencies {
     // Coroutine Lifecycle Scopes
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.2.0"
+    implementation "androidx.core:core-ktx:+"
+
 }
