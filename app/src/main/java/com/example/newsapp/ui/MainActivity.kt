@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         bottomNavigationView.setupWithNavController(newsNavHostFragment.findNavController())
 
         println("Commit inside Experimental Branch")
+        println("This is experimental commit")
 
 
     }
