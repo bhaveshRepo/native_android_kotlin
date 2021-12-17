@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         println("This is experimental commit")
         println("This is branch 3")
         println("Edited after adding repo to Github")
-        println("Pushed using commandline")
+        println("Pushed using commandline origin")
 
 
     }
