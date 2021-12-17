@@ -1,0 +1,92 @@
+[33mcommit 21669a947b8a67e9c0af78c0f2e7166aab2b69d3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin1/master[m[33m)[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 21:27:16 2021 +0530
+
+    push to github
+
+[33mcommit e71023ca56bb329ccd40aa8bfcc49a11180a35ec[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 8436488 c87addd
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 20:43:18 2021 +0530
+
+    Merge branch 'Experimental'
+    
+    # Conflicts:
+    #       app/src/main/java/com/example/newsapp/ui/MainActivity.kt
+
+[33mcommit c87addd99e0a32b366c77f907ca52a5f7b3cfd44[m[33m ([m[1;32mExperimental[m[33m)[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 20:41:54 2021 +0530
+
+    experimental commit_2
+
+[33mcommit 8436488a6c3013a879f99008b2d73aa3392815bf[m[33m ([m[1;32mbranch3[m[33m)[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 20:39:06 2021 +0530
+
+    Branch 3 commit_1
+
+[33mcommit f3d9486c8593ec569efe59940ecda2b4c4e765eb[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 18:42:59 2021 +0530
+
+    Experimental Branch node_1
+
+[33mcommit 8ec9b3fce3aa27c9425eb45039b35219453ffb25[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 142b060 2621f3b baca6d6
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 17:45:35 2021 +0530
+
+    WIP on master: 142b060 This is Second Commit
+
+[33mcommit 2621f3b94144cc8d9b6050ea64446df70872f2f8[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 17:45:35 2021 +0530
+
+    index on master: 142b060 This is Second Commit
+
+[33mcommit baca6d6aafc2b79b3c1ac821890caafa09705f27[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 17:45:35 2021 +0530
+
+    untracked files on master: 142b060 This is Second Commit
+
+[33mcommit 142b060630e4ce6f0734cfaf4da14fb54c44558b[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 17:21:37 2021 +0530
+
+    This is Second Commit
+
+[33mcommit 77f79c68e4edfd5acffffcbe7032eb33bb6c76f9[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 17:17:40 2021 +0530
+
+    Revert "Error commit"
+    
+    This reverts commit d6cff99c
+
+[33mcommit 733ddcc3fef8276fa75411f1e4b60a3ffb4d994b[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 16:46:26 2021 +0530
+
+    Revert "First Commit"
+    
+    This reverts commit 33ee73845c43a345036ac14dde5cb53f77167df7.
+
+[33mcommit 33ee73845c43a345036ac14dde5cb53f77167df7[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 16:44:21 2021 +0530
+
+    First Commit
+
+[33mcommit d6cff99c28a6bd6c2ba969fe5658317365a0ac31[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 13:39:48 2021 +0530
+
+    Error commit
+
+[33mcommit e612f888d66b938c1fde081a2a10116b142cbc61[m
+Author: bhaveshRepo <sutharBhavesh@outlook.in>
+Date:   Thu Dec 16 12:25:42 2021 +0530
+
+    Continuation Bug
